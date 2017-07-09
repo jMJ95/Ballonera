@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1448965721 source:c:\users\johan_000\desktop\johan\itla\7mo cuatrimestre\estructura de datos\tareas\bellonera\canciones.cpp
+	"Canciones.h"
+
+1449031051 c:\users\johan_000\desktop\johan\itla\7mo cuatrimestre\estructura de datos\tareas\bellonera\canciones.h
+	<string>
+
+1449029358 source:c:\users\johan_000\desktop\johan\itla\7mo cuatrimestre\estructura de datos\tareas\bellonera\main.cpp
+	<iostream>
+	<windows.h>
+	"Sistema.h"
+
+1449030963 c:\users\johan_000\desktop\johan\itla\7mo cuatrimestre\estructura de datos\tareas\bellonera\sistema.h
+	"Canciones.h"
+
+1449031153 source:c:\users\johan_000\desktop\johan\itla\7mo cuatrimestre\estructura de datos\tareas\bellonera\sistema.cpp
+	<iostream>
+	"Sistema.h"
+
